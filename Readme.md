@@ -1,5 +1,12 @@
 # MongoDB - Sharding + Zones
 
+This repository contains a few things I've used to test sharding with zones in MongoDB.
+
+The following two articles have been very useful: 
+1. [Deploy a Sharded Cluster](https://docs.mongodb.com/manual/tutorial/deploy-shard-cluster/)
+2. [Segmenting Data by Application or Customer](https://docs.mongodb.com/manual/tutorial/sharding-segmenting-shards/) 
+
+
 ## Start Configuration ReplicaSet
 
 1. Run the following Powershell script
